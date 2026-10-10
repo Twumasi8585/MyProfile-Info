@@ -126,16 +126,7 @@ color: #ffffed;
 }
 
 
-footer h5{
-  height: 40px;
-  width: 100%;
-  text-align: center;
-  padding: 10px;
-  background-color: #070614;
-  /*border: 1px solid #e6b400;*/
-  box-shadow: -1px -1px 1px #ffffed;
-  color: #ffffed;
-}
+
 
 
 @media (prefers-reduced-motion: reduce) {
